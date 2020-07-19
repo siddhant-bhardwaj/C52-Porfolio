@@ -1,0 +1,62 @@
+h1{
+    color:red;
+    padding:30px;
+} 
+
+h2{
+    color:#64C8FA;
+}
+
+*{
+    border:solid;
+}
+
+.header{
+    background-color:orange;
+    display:flex;
+    justify-content:space-between;
+
+}
+
+.login{
+    margin-left:600px;
+    margin-top:40px;
+}
+
+.social{
+    display:flex;
+justify-content: space-between;
+margin-top: 250px;
+}
+
+.grid{
+    background-color:yellow;
+    
+}
+
+a:link{
+    color:red;
+}
+
+a:visited{
+    color:white;
+}
+
+.menu{
+    display:flex;
+    justify-content:space-around;
+   
+
+}
+
+.menu p{
+    position: relative;
+    top:50%;
+    left:50%
+}
+
+h3,h4{
+color:purple;
+margin-left:20px;
+}
+
